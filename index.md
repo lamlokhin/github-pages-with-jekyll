@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome Ryan Lam's blog
 
-I'm glad you are here. I plan to talk about ...
+Sorry I have no content for this blog yet.
+Is this working?
